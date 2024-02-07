@@ -1,6 +1,6 @@
 #include<iostream>
 using namespace std;
-//inheritance is also a is-a relationship
+
 class Engine
 {
 public:
