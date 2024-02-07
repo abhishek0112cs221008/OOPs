@@ -22,5 +22,5 @@ int main()
    ios::out               [output/write]
    ios::app               [append]
    ios::ate               [update]
-   ios::binaru            [binary]
+   ios::binary           [binary]
 */
